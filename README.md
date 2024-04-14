@@ -1,6 +1,6 @@
 # Prediction-of-product-sales
 Project 1 of part time students of data science and machine learning(Refactory Uganda in association with codingdojo)
-
+The purpose of this project is for learning purposes only and it is a six week project with lessons learnt being used to update on the project each week.
 
 # Preview 
 - Heatmap of correlation relationship between numerical features in the data
