@@ -25,7 +25,7 @@ ___
 4. Further the preprocessing object was identified for each class: numeric, ordinal and nominal and taken through a model pipeline where a linear regression model was used at first.
 5. the second model chosen was a Random Forest Regression which was modified using GridSearchCV to identify the best version
 
-#Results
+# Results
 ___
  Preview 
 - Heatmap of correlation relationship between numerical features in the data
@@ -40,7 +40,7 @@ ___
 
 ![outlet indentifier](https://github.com/lkivumbi/Prediction-of-product-sales/assets/161327455/338be1a2-2999-4a26-8ea5-68ffb8bd3a92)
 
-#Model
+# Model
 - The final model chosen for this project was a Random Forest Regressor after doing a Gridsearch of the best parameters and using the best estimators on the dataset.
 - The best parameters identified were
 -- max_features: 3
@@ -52,13 +52,13 @@ ___
 - The Mean Squared error for this model was also the lowest amongest the model tried.
 - This model therefore proved to be the best predictor of the target as it would give the most correct predictions and even where it fell off, it wouldn't be as bad as the other models.
 
-#Recommendations:
+# Recommendations:
 ___
 I would recommend that focus would be put on the Item Maximum retail price as this showed the greatest positive correlation with item outlet sales and also focus to be put on the item visibility as it also showed some negative relationship with the outlet sales.
 
-#Limitations and next Step
+# Limitations and next Step
 ___
 The dictionary wasn't descriptive enough and the missing values were not explained well to determing the best way to deal with them.
 
-##For further information
+## For further information
 For any additional questions, please contact me @kivumbimluke@gmail.com
